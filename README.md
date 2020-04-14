@@ -13,3 +13,8 @@ I recommend Hutton for getting up and running speedily, and HPFP has been really
 ## To run and interact with the examples
 
 Open a REPL, load in the desired example, and play away!
+
+## Random Tidbits
+
+### Haskell's `quot` `rem` `div` and `mod`
+I took some time to grok this, and put my thoughts in `/src/ch2/quotientRemainder_vs_divideModulo.md`
