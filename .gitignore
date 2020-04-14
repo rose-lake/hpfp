@@ -1,0 +1,10 @@
+.stack-work/
+*~
+
+# keeping the default structures provided by `stack`
+# but gitignoring those aspects I don't need right now
+app/
+test/
+package.yaml
+Setup.hs
+ChangeLog.md
