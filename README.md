@@ -1,4 +1,4 @@
-# HPFP = "Haskell Programming From First Principles"
+# Haskell Programming From First Principles
 
 My work on HPFP, organized by chapter under `src/ch#/`
 
