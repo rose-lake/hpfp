@@ -20,4 +20,4 @@ Open a REPL, load in the desired example, and play away!
 I took some time to grok this, and put my thoughts in [`/src/ch2/quotientRemainder_vs_divideModulo.md`](https://github.com/rose-lake/hpfp/blob/master/src/ch2/quotientRemainder_vs_divideModulo.md)
 
 ## Currently at...
-Chapter 6, Section 6
+Chapter 6, Section 7
